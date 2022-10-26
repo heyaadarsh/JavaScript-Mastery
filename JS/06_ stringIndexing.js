@@ -12,3 +12,6 @@ console.log(myName[3]); // It will print A
 console.log(myName[4]); // It will print R
 console.log(myName[5]); // It will print S
 console.log(myName[6]); // It will print H
+
+// Length of string
+console.log(myName.length); // It will print the length of the string.
