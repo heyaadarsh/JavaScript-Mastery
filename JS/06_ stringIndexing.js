@@ -1,5 +1,6 @@
 // String Indexing
 
+// In string indexing starts from zero.
 // A A D A R S H
 // 0 1 2 3 4 5 6
 
