@@ -14,4 +14,10 @@ console.log(myName[5]); // It will print S
 console.log(myName[6]); // It will print H
 
 // Length of string
-console.log(myName.length); // It will print the length of the string.
+console.log(myName.length); // It will print the length of the string. (In this length = 7) Spaces will aslo be counted in the total length.
+
+// last index = (length - 1)
+console.log(myName[myName.length - 1]); // It will print the last element.
+console.log(myName[myName.length - 2]); // It will print the 2nd last element.
+console.log(myName[myName.length - 3]); // It will print the 3rd last element.
+// and so on....
