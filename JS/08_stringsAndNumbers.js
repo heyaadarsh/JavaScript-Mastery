@@ -7,10 +7,17 @@ console.log(typeof myName);
 
 // Number to String Conversion
 // Method-1
-number = number + ""; // It will convert 20 to "20"
+number = number + ""; // It will convert 20 to "20".
 console.log(typeof number);
 
 // Method-2
 let value = 100;
 value = String(value);
 console.log(typeof value);
+
+// String to Number Conversion
+// Method-1
+let $value = "50";
+$value = + $value; // It will convert "50" to 50.
+console.log(typeof $value);
+
