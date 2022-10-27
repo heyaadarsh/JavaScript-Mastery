@@ -21,3 +21,7 @@ let $value = "50";
 $value = + $value; // It will convert "50" to 50.
 console.log(typeof $value);
 
+// Method-2
+let _val = "77";
+_val = Number(_val);
+console.log(typeof _val);
