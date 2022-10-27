@@ -5,3 +5,7 @@ let updatedName = firstName.trim();
 console.log(updatedName);
 console.log(updatedName.length);
 console.log(firstName.length); // It will remain same.
+
+// toUpperCase() - Used to capitalize the string.
+let myName = "narendra";
+console.log(myName.toUpperCase());
